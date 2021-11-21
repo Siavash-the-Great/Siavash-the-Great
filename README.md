@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Siavash
+- 👀 I’m interested in electronics, digital systems, ML, creating video games and.. 
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me -> siavashiranpak@gmail.com
